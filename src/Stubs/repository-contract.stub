@@ -1,0 +1,7 @@
+<?php
+
+namespace #contractPath;
+use #BaseRepositoryContract as CoreRepositoryContract;
+interface #ClassNameRepositoryContract extends CoreRepositoryContract
+{
+}
